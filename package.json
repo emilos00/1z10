@@ -1,0 +1,8 @@
+{
+  "name": "wielki-quiz-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-based 1 z 10 quiz game with online rooms",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
